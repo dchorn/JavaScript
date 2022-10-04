@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function(){
-
+    
     //visibilidad de los divs
     document.getElementById("btEx1").addEventListener("click", function(){
     document.getElementById("exercici3").style.display="none";
